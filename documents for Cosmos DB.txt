@@ -1,0 +1,36 @@
+{
+    "title": "The Neverending Story",
+    "author": {
+        "name": "Michael Ende",
+        "homeCountry": "Germany"
+    },
+    "publisher": "Penguin Books",
+    "genre": "Fantasy",
+    "section": "Fiction"
+}
+
+{
+    "title": "The Name of the Rose",
+    "author": {
+        "name": "Umberto Eco",
+        "homeCountry": "Italy"
+    },
+    "publisher": "Vintage Classics",
+    "genre": "Historical mystery",
+    "section": "Fiction",
+    "prizes": [
+        "Strega Prize",
+        "Prix Medicis Étranger"
+    ]
+}
+
+{
+    "title": "Learning Azure Cosmos DB",
+    "author": {
+        "name": "Shahid Shaikh"
+        "homeCountry": "United States"
+    },
+    "publisher": "Packt",
+    "genre": "Cloud computing",
+    "section": "Technical"
+}
